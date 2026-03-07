@@ -4,7 +4,7 @@ This project contains the backend and frontend for RxBuddy.
 
 ## Project Structure
 - `Backend`: FastAPI Python application.
-- `RxBuddy frontend`: React + Vite application.
+- `Frontend`: React + Vite application.
 
 ## Getting Started
 
